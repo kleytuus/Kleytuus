@@ -1,6 +1,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;600;700;800&family=Roboto+Slab:wght@200&display=swap" rel="stylesheet">
 
-<br><br>
+<br>
 <div align="center"> 
 
   #### **⎇ Hi there, I'm Aldo Gallegos**
